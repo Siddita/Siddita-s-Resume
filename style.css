@@ -569,6 +569,7 @@ footer ul li a {
   padding: 1rem;
   max-width: 100%;
   margin: 0 auto;
+  height: auto;
 }
 
 
@@ -582,6 +583,7 @@ footer ul li a {
 @media (max-width: 600px) {
   .projects-grid {
     grid-template-columns: 1fr; 
+    
   }
 
   .project-card {
